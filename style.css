@@ -1,15 +1,18 @@
 h1 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: blue;
+  color: lightblue;
   background-color: black;
-  outline-style: double;
+  outline: 8px ridge lightblue;
+  border-radius: 2rem;
+  outline-style: inset;
+  margin:25px;
   text-align: center;
 
 }
 
 h2{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: blue;
+  color: darkblue;
   text-align: left;
 
 }
@@ -17,7 +20,7 @@ h2{
 body{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: black;
-  background-color:lightcyan;
+  background-color:whitesmoke;
   text-align: justify;
 }
 
